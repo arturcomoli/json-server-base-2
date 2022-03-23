@@ -46,35 +46,7 @@
       "id": 3,
       "category": "pulso"
     },
-    {
-      "name": "Apertar bola na palma da mão",
-      "instructions": [
-        "Aperte uma bola de tênis ou produto similar para aumentar a mobilidade de seu pulso. Usar uma bola de pressão ou antiestresse também é útil a aliviar a dor no túnel do carpo, além de aliviar o estresse.",
-        "Aperte a bola sem fazer muita força durante cinco segundos e solte.",
-        "A seguir, passe-a para a outra mão e continue a troca.",
-        "Se não tiver nada para apertar, cerre o punho e mantenha-o assim durante cinco segundos.",
-        "Relaxe a mão e repita o exercício cinco vezes.",
-        "Passe para a outra mão e repita.",
-        "Se a bola de tênis for muito dura, tente usar uma bola antiestresse macia ou um pouco de argila."
-      ],
-      "img": "https://www.wikihow.com/images/thumb/b/b9/Do-Hand-Stretches-for-Carpal-Tunnel-Step-3.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-3.jpg.webp",
-      "id": 4,
-      "category": "pulso"
-    },
-    {
-      "name": "Rosca de punho",
-      "instructions": [
-        "Pegue algo leve, sendo uma latinha de comida uma boa opção para começar, e segure-o com uma mão.",
-        "Deixe a mão para fora da borda de uma superfície, como um banco, uma mesa ou o seu colo.",
-        "A palma da mão deve ficar voltada para baixo. Mantenha o antebraço apoiado sobre a superfície durante todo o exercício.",
-        "Lentamente, eleve o pulso, mantenha a posição por um instante e desça-o no mesmo ritmo.",
-        "Repita esse exercício 10 vezes.",
-        "A seguir, gire o braço até que a palma da mão esteja voltada para cima e faça mais 10 repetições."
-      ],
-      "img": "https://www.wikihow.com/images/thumb/3/38/Strengthen-Your-Wrists-Step-2.jpg/v4-728px-Strengthen-Your-Wrists-Step-2.jpg.webp",
-      "id": 5,
-      "category": "pulso"
-    },
+
     {
       "name": "Abra os dedos",
       "instructions": [
@@ -84,24 +56,10 @@
         "Repita esse exercício quatro vezes."
       ],
       "img": "https://www.wikihow.com/images/thumb/b/b1/Do-Hand-Stretches-for-Carpal-Tunnel-Step-2.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-2.jpg.webp",
-      "id": 6,
+      "id": 4,
       "category": "pulso"
     },
-    {
-      "name": "Estique os dedos e cerre os punhos",
-      "instructions": [
-        "Em pé, coloque ambos os braços à sua frente com as palmas das mãos para baixo e paralelas ao chão. Estique os dedos para cima, fazendo um sinal de 'pare', e mantenha-se assim durante cinco segundos.",
-        "Relaxe os dedos para baixo, de modo a colocá-los novamente paralelos ao chão.",
-        "Aperte os dedos e cerre o punho durante cinco segundos.",
-        "Relaxe a mão.",
-        "A seguir, dobre os pulsos para baixo por mais cinco segundos.",
-        "Alongue ambos os pulsos e relaxe os dedos.",
-        "Repita esse exercício 10 vezes e deixe os braços caírem soltos ao lado do corpo, balançando-os ligeiramente."
-      ],
-      "img": "https://www.wikihow.com/images/thumb/f/f5/Do-Hand-Stretches-for-Carpal-Tunnel-Step-10.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-10.jpg.webp",
-      "id": 7,
-      "category": "pulso"
-    },
+
     {
       "name": "Polegares para cima",
       "instructions": [
@@ -112,7 +70,7 @@
         "Relaxe e repita esse exercício cinco a dez vezes com cada mão."
       ],
       "img": "https://www.wikihow.com/images/thumb/0/0e/Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg.webp",
-      "id": 8,
+      "id": 5,
       "category": "pulso"
     },
     {
@@ -124,7 +82,7 @@
         "Repita esse exercício 10 vezes com cada mão."
       ],
       "img": "https://www.wikihow.com/images/thumb/b/b3/Do-Hand-Stretches-for-Carpal-Tunnel-Step-6.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-6.jpg.webp",
-      "id": 9,
+      "id": 6,
       "category": "pulso"
     },
     {
@@ -136,7 +94,7 @@
         "Solte lentamente e repita o alongamento do outro lado."
       ],
       "img": "https://www.wikihow.com/images/thumb/3/39/Get-Rid-of-a-Stiff-Neck-Step-4-Version-4.jpg/v4-728px-Get-Rid-of-a-Stiff-Neck-Step-4-Version-4.jpg.webp",
-      "id": 10,
+      "id": 7,
       "category": "pescoco"
     },
     {
@@ -150,7 +108,7 @@
         "Para um alongamento mais profundo, mantenha a palma da mão com os dedos voltados para baixo."
       ],
       "img": "https://www.wikihow.com/images/thumb/1/19/Do-Hand-Stretches-for-Carpal-Tunnel-Step-5.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-5.jpg.webp",
-      "id": 11,
+      "id": 8,
       "category": "pulso"
     },
     {
@@ -162,7 +120,7 @@
         "Caso precise de maior sustentação, segure a parte de trás do pescoço com as mãos."
       ],
       "img": "https://www.wikihow.com/images/thumb/6/66/Stretch-Your-Neck-Step-4-Version-2.jpg/v4-728px-Stretch-Your-Neck-Step-4-Version-2.jpg.webp",
-      "id": 12,
+      "id": 9,
       "category": "pescoco"
     },
     {
@@ -172,7 +130,7 @@
         "Após 20 segundos, relaxe."
       ],
       "img": "https://www.wikihow.com/images/thumb/b/b1/Stretch-Your-Neck-Step-5-Version-2.jpg/v4-728px-Stretch-Your-Neck-Step-5-Version-2.jpg.webp",
-      "id": 13,
+      "id": 10,
       "category": "pescoco"
     },
     {
@@ -182,7 +140,7 @@
         "Mantenha a posição por 20 segundos e incline a cabeça para o outro lado."
       ],
       "img": "https://www.wikihow.com/images/thumb/7/78/Stretch-Your-Neck-Step-6-Version-2.jpg/v4-728px-Stretch-Your-Neck-Step-6-Version-2.jpg.webp",
-      "id": 14,
+      "id": 11,
       "category": "pescoco"
     },
     {
@@ -193,7 +151,7 @@
         "Caso alcance o limite do movimento e sinta desconforto, empurre a cabeça levemente com a mão para aumentar o alongamento."
       ],
       "img": "https://www.wikihow.com/images/thumb/a/a1/Stretch-Your-Neck-Step-7-Version-2.jpg/v4-728px-Stretch-Your-Neck-Step-7-Version-2.jpg.webp",
-      "id": 15,
+      "id": 12,
       "category": "pescoco"
     },
     {
@@ -205,7 +163,7 @@
         "Depois, faça mais quatro ou cinco repetições do exercício."
       ],
       "img": "https://www.wikihow.com/images/thumb/a/a0/Stretch-Your-Lower-Back-While-Lying-Down-Step-01.jpg/v4-728px-Stretch-Your-Lower-Back-While-Lying-Down-Step-01.jpg.webp",
-      "id": 16,
+      "id": 13,
       "category": "costas"
     },
     {
@@ -216,24 +174,10 @@
         "Conte cerca de cinco segundos e volte à posição inicial. Por fim, repita o alongamento duas ou três vezes."
       ],
       "img": "https://www.wikihow.com/images/thumb/6/6b/Stretch-Your-Lower-Back-While-Lying-Down-Step-02.jpg/v4-728px-Stretch-Your-Lower-Back-While-Lying-Down-Step-02.jpg.webp",
-      "id": 17,
+      "id": 14,
       "category": "lombar"
     },
-    {
-      "name": "Flexibilidade Rotacional",
-      "instructions": [
-        "Deite-se de costas, com os joelhos apontados para cima e os pés no chão.",
-        "Enquanto isso, apoie as mãos no peito ou deixe os braços dos lados do corpo.",
-        "Sem levantar os ombros, gire os quadris para abaixar as pernas para um lado só.",
-        "Vá até onde você conseguir sem sentir dor.",
-        "Conte de cinco a dez segundos, respire fundo e volte à posição inicial.",
-        "Por fim, repita o processo do outro lado.",
-        "Faça duas séries desse alongamento com duas ou três vezes de cada lado."
-      ],
-      "img": "https://www.wikihow.com/images/thumb/c/ce/Stretch-Your-Lower-Back-While-Lying-Down-Step-03.jpg/v4-728px-Stretch-Your-Lower-Back-While-Lying-Down-Step-03.jpg.webp",
-      "id": 18,
-      "category": "lombar"
-    },
+
     {
       "name": "Alongamento Abdominal",
       "instructions": [
@@ -243,7 +187,7 @@
         "Conte cinco segundos, ainda respirando fundo, e relaxe."
       ],
       "img": "https://www.wikihow.com/images/thumb/0/0c/Stretch-Your-Lower-Back-While-Lying-Down-Step-04.jpg/v4-728px-Stretch-Your-Lower-Back-While-Lying-Down-Step-04.jpg.webp",
-      "id": 19,
+      "id": 15,
       "category": "lombar"
     },
     {
@@ -253,7 +197,7 @@
         "Estique o braço direito sobre a cabeça e incline o tronco para a esquerda, segurando a posição por 30 segundos e trocando de lado quando terminar."
       ],
       "img": "https://www.wikihow.com/images/thumb/f/fa/Stretch-Your-QL-Step-1.jpg/v4-728px-Stretch-Your-QL-Step-1.jpg.webp",
-      "id": 20,
+      "id": 16,
       "category": "costas"
     },
     {
@@ -264,7 +208,7 @@
         "Mantenha a posição por até 30 segundos e troque de lado."
       ],
       "img": "https://www.wikihow.com/images/thumb/9/98/Stretch-Your-QL-Step-2.jpg/v4-728px-Stretch-Your-QL-Step-2.jpg.webp",
-      "id": 21,
+      "id": 17,
       "category": "costas"
     }
   ],
