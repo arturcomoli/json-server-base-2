@@ -406,6 +406,120 @@
         "id": 1
       },
       "id": 2
+    },
+    {
+      "name": "Polegares para cima",
+      "instructions": [
+        "Feche a mão e mantenha o polegar apontado para cima.",
+        "Aumente a tensão da mão e do punho para evitar que o dedo se mova.",
+        "A seguir, pegue-o com a mão livre e puxe-o para trás com suavidade.",
+        "Mantenha a tensão durante cinco segundos.",
+        "Relaxe e repita esse exercício cinco a dez vezes com cada mão."
+      ],
+      "img": "https://www.wikihow.com/images/thumb/0/0e/Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg.webp",
+      "category": "pulso",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Polegares para cima",
+      "instructions": [
+        "Feche a mão e mantenha o polegar apontado para cima.",
+        "Aumente a tensão da mão e do punho para evitar que o dedo se mova.",
+        "A seguir, pegue-o com a mão livre e puxe-o para trás com suavidade.",
+        "Mantenha a tensão durante cinco segundos.",
+        "Relaxe e repita esse exercício cinco a dez vezes com cada mão."
+      ],
+      "img": "https://www.wikihow.com/images/thumb/0/0e/Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg.webp",
+      "category": "pulso",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "name": "Polegares para cima",
+      "instructions": [
+        "Feche a mão e mantenha o polegar apontado para cima.",
+        "Aumente a tensão da mão e do punho para evitar que o dedo se mova.",
+        "A seguir, pegue-o com a mão livre e puxe-o para trás com suavidade.",
+        "Mantenha a tensão durante cinco segundos.",
+        "Relaxe e repita esse exercício cinco a dez vezes com cada mão."
+      ],
+      "img": "https://www.wikihow.com/images/thumb/0/0e/Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg.webp",
+      "category": "pulso",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "Polegares para cima",
+      "instructions": [
+        "Feche a mão e mantenha o polegar apontado para cima.",
+        "Aumente a tensão da mão e do punho para evitar que o dedo se mova.",
+        "A seguir, pegue-o com a mão livre e puxe-o para trás com suavidade.",
+        "Mantenha a tensão durante cinco segundos.",
+        "Relaxe e repita esse exercício cinco a dez vezes com cada mão."
+      ],
+      "img": "https://www.wikihow.com/images/thumb/0/0e/Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg.webp",
+      "category": "pulso",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "name": "Polegares para cima",
+      "instructions": [
+        "Feche a mão e mantenha o polegar apontado para cima.",
+        "Aumente a tensão da mão e do punho para evitar que o dedo se mova.",
+        "A seguir, pegue-o com a mão livre e puxe-o para trás com suavidade.",
+        "Mantenha a tensão durante cinco segundos.",
+        "Relaxe e repita esse exercício cinco a dez vezes com cada mão."
+      ],
+      "img": "https://www.wikihow.com/images/thumb/0/0e/Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg.webp",
+      "category": "pulso",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Polegares para cima",
+      "instructions": [
+        "Feche a mão e mantenha o polegar apontado para cima.",
+        "Aumente a tensão da mão e do punho para evitar que o dedo se mova.",
+        "A seguir, pegue-o com a mão livre e puxe-o para trás com suavidade.",
+        "Mantenha a tensão durante cinco segundos.",
+        "Relaxe e repita esse exercício cinco a dez vezes com cada mão."
+      ],
+      "img": "https://www.wikihow.com/images/thumb/0/0e/Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg/v4-728px-Do-Hand-Stretches-for-Carpal-Tunnel-Step-11.jpg.webp",
+      "category": "pulso",
+      "userId": 1,
+      "id": 8
+    }
+  ],
+  "routine": [
+    {
+      "status": false,
+      "name": "Polegares para cima",
+      "time": "12:30",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "status": false,
+      "name": "Polegares para cima",
+      "time": "12:30",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "status": true,
+      "name": "Polegares para cima",
+      "time": "12:30",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "status": true,
+      "name": "Polegares para cima",
+      "time": "12:30",
+      "userId": 1,
+      "id": 4
     }
   ]
 }

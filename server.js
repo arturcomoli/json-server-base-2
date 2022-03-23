@@ -12,6 +12,7 @@ const rules = auth.rewriter({
   users: 600,
   exercises: 440,
   userlists: 600,
+  routine: 600,
   nutrilist: 440,
   nutritips: 440,
 });
